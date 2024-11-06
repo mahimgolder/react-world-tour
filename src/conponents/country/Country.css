@@ -1,0 +1,10 @@
+.border{
+    border: 1px solid salmon;
+    border-radius: 15px;
+    margin: 15px ;
+    padding-left: 35px;
+}
+.Visited{
+    background-color: bisque;
+    color: black;
+}
